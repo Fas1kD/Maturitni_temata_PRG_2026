@@ -1,2 +1,2 @@
-# Maturitni_temata_PRG
+# Maturitní témata Programování
  Vypracované maturitní témata z programování 2026
