@@ -1,0 +1,14 @@
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Test_IF\Test_IF\bin\Debug\net8.0\Test_IF.exe
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Test_IF\Test_IF\bin\Debug\net8.0\Test_IF.deps.json
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Test_IF\Test_IF\bin\Debug\net8.0\Test_IF.runtimeconfig.json
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Test_IF\Test_IF\bin\Debug\net8.0\Test_IF.dll
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Test_IF\Test_IF\bin\Debug\net8.0\Test_IF.pdb
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Test_IF\Test_IF\obj\Debug\net8.0\Test_IF.GeneratedMSBuildEditorConfig.editorconfig
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Test_IF\Test_IF\obj\Debug\net8.0\Test_IF.AssemblyInfoInputs.cache
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Test_IF\Test_IF\obj\Debug\net8.0\Test_IF.AssemblyInfo.cs
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Test_IF\Test_IF\obj\Debug\net8.0\Test_IF.csproj.CoreCompileInputs.cache
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Test_IF\Test_IF\obj\Debug\net8.0\Test_IF.dll
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Test_IF\Test_IF\obj\Debug\net8.0\refint\Test_IF.dll
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Test_IF\Test_IF\obj\Debug\net8.0\Test_IF.pdb
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Test_IF\Test_IF\obj\Debug\net8.0\Test_IF.genruntimeconfig.cache
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Test_IF\Test_IF\obj\Debug\net8.0\ref\Test_IF.dll

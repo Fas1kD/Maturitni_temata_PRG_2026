@@ -1,0 +1,14 @@
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Tema_15-IF_SWITCH\bin\Debug\net8.0\Tema_15-IF_SWITCH.exe
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Tema_15-IF_SWITCH\bin\Debug\net8.0\Tema_15-IF_SWITCH.deps.json
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Tema_15-IF_SWITCH\bin\Debug\net8.0\Tema_15-IF_SWITCH.runtimeconfig.json
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Tema_15-IF_SWITCH\bin\Debug\net8.0\Tema_15-IF_SWITCH.dll
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Tema_15-IF_SWITCH\bin\Debug\net8.0\Tema_15-IF_SWITCH.pdb
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Tema_15-IF_SWITCH\obj\Debug\net8.0\Tema_15-IF_SWITCH.GeneratedMSBuildEditorConfig.editorconfig
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Tema_15-IF_SWITCH\obj\Debug\net8.0\Tema_15-IF_SWITCH.AssemblyInfoInputs.cache
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Tema_15-IF_SWITCH\obj\Debug\net8.0\Tema_15-IF_SWITCH.AssemblyInfo.cs
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Tema_15-IF_SWITCH\obj\Debug\net8.0\Tema_15-IF_SWITCH.csproj.CoreCompileInputs.cache
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Tema_15-IF_SWITCH\obj\Debug\net8.0\Tema_15-IF_SWITCH.dll
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Tema_15-IF_SWITCH\obj\Debug\net8.0\refint\Tema_15-IF_SWITCH.dll
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Tema_15-IF_SWITCH\obj\Debug\net8.0\Tema_15-IF_SWITCH.pdb
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Tema_15-IF_SWITCH\obj\Debug\net8.0\Tema_15-IF_SWITCH.genruntimeconfig.cache
+H:\Maturitní Témata\PRG\Tema_15-IF_SWITCH\Tema_15-IF_SWITCH\obj\Debug\net8.0\ref\Tema_15-IF_SWITCH.dll

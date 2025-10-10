@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_15-IF_SWITCH\\Test_IF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86B03523-335E-4401-B989-BE72AD6E72B1}|Test_IF\\Test_IF.csproj|h:\\maturitn\u00ED t\u00E9mata\\prg\\tema_15-if_switch\\test_if\\test_if\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B03523-335E-4401-B989-BE72AD6E72B1}|Test_IF\\Test_IF.csproj|solutionrelative:test_if\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_15-IF_SWITCH\\Test_IF\\Test_IF\\Program.cs",
+              "RelativeDocumentMoniker": "Test_IF\\Program.cs",
+              "ToolTip": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_15-IF_SWITCH\\Test_IF\\Test_IF\\Program.cs",
+              "RelativeToolTip": "Test_IF\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwEkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:51:38.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

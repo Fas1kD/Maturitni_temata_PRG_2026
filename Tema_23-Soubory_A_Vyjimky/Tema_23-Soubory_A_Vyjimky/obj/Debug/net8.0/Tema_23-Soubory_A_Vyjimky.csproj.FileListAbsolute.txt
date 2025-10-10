@@ -1,0 +1,14 @@
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Tema_23-Soubory_A_Vyjimky\bin\Debug\net8.0\Tema_23-Soubory_A_Vyjimky.exe
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Tema_23-Soubory_A_Vyjimky\bin\Debug\net8.0\Tema_23-Soubory_A_Vyjimky.deps.json
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Tema_23-Soubory_A_Vyjimky\bin\Debug\net8.0\Tema_23-Soubory_A_Vyjimky.runtimeconfig.json
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Tema_23-Soubory_A_Vyjimky\bin\Debug\net8.0\Tema_23-Soubory_A_Vyjimky.dll
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Tema_23-Soubory_A_Vyjimky\bin\Debug\net8.0\Tema_23-Soubory_A_Vyjimky.pdb
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Tema_23-Soubory_A_Vyjimky\obj\Debug\net8.0\Tema_23-Soubory_A_Vyjimky.GeneratedMSBuildEditorConfig.editorconfig
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Tema_23-Soubory_A_Vyjimky\obj\Debug\net8.0\Tema_23-Soubory_A_Vyjimky.AssemblyInfoInputs.cache
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Tema_23-Soubory_A_Vyjimky\obj\Debug\net8.0\Tema_23-Soubory_A_Vyjimky.AssemblyInfo.cs
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Tema_23-Soubory_A_Vyjimky\obj\Debug\net8.0\Tema_23-Soubory_A_Vyjimky.csproj.CoreCompileInputs.cache
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Tema_23-Soubory_A_Vyjimky\obj\Debug\net8.0\Tema_23-Soubory_A_Vyjimky.dll
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Tema_23-Soubory_A_Vyjimky\obj\Debug\net8.0\refint\Tema_23-Soubory_A_Vyjimky.dll
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Tema_23-Soubory_A_Vyjimky\obj\Debug\net8.0\Tema_23-Soubory_A_Vyjimky.pdb
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Tema_23-Soubory_A_Vyjimky\obj\Debug\net8.0\Tema_23-Soubory_A_Vyjimky.genruntimeconfig.cache
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Tema_23-Soubory_A_Vyjimky\obj\Debug\net8.0\ref\Tema_23-Soubory_A_Vyjimky.dll
