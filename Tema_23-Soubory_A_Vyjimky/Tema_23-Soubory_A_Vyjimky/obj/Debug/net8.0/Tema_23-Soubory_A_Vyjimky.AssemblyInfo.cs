@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tema_23-Soubory_A_Vyjimky")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9781d85b44b2372612c83002ce499dce9b2825ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tema_23-Soubory_A_Vyjimky")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tema_23-Soubory_A_Vyjimky")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

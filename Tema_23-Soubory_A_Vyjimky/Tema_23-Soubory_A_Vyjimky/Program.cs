@@ -20,6 +20,7 @@ namespace Tema_23_Soubory_A_Vyjimky
 
             //https://www.canva.com/design/DAGm1GvkccQ/MjO5gxR9tSz_Hyrr0DtK_Q/view?utm_content=DAGm1GvkccQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h80b3f3e7cc#5
 
+            //SOUBORY
             //19.7.x
             //SOUBOR SE NACHÁZÍ VE SLOŽCE PROJEKTU /bin/debug/net8.0/
 
@@ -79,6 +80,64 @@ namespace Tema_23_Soubory_A_Vyjimky
             };
 
             File.WriteAllLines("noviStudenti.csv", radkyVtabulce);
+
+
+            //VYJÍMKY
+            //nefunguje :((
+            bool x = true;
+            while (x)
+            {
+                byte cislo1 = 0;
+                byte cislo2 = 0;
+                try
+                {
+                    Console.WriteLine("--------------------------");
+                    Console.WriteLine("cislo1");
+                    cislo1 = byte.Parse(Console.ReadLine());
+                    Console.WriteLine("cislo2");
+                    cislo2 = byte.Parse(Console.ReadLine());
+
+                    byte cislo3 = (byte)(cislo1 / cislo2);
+                    Console.WriteLine(cislo3);
+                }
+                catch (FormatException ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
+                catch (OverflowException ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
+                catch (DivideByZeroException ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
+                finally
+                {
+                    Console.WriteLine("Konec cyklu try catch");
+                    Console.WriteLine("------------");
+                    x = false; 
+                }
+            }
+
+
+            //JSON
+            var uzivatel = new Dictionary<string, string>
+            {
+                { "jmeno", "Karel" },
+                { "prijmeni", "Novak" },
+                { "vek", "30" }
+            };
+
+            //string json = JsonSerializer.Serialize(uzivatel);
+            //File.WriteAllText("uzivatel.json", json);
+            //Console.WriteLine("JSON uložen");
+            //Console.WriteLine(json);
+
 
 
 
