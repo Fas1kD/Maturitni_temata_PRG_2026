@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "it4a-kviz-json/1.0.0": {
+        "runtime": {
+          "it4a-kviz-json.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "it4a-kviz-json/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,29 @@
+C:\Users\1502fojtik\source\repos\it4a-kviz-json\it4a-kviz-json\bin\Debug\net8.0\it4a-kviz-json.exe
+C:\Users\1502fojtik\source\repos\it4a-kviz-json\it4a-kviz-json\bin\Debug\net8.0\it4a-kviz-json.deps.json
+C:\Users\1502fojtik\source\repos\it4a-kviz-json\it4a-kviz-json\bin\Debug\net8.0\it4a-kviz-json.runtimeconfig.json
+C:\Users\1502fojtik\source\repos\it4a-kviz-json\it4a-kviz-json\bin\Debug\net8.0\it4a-kviz-json.dll
+C:\Users\1502fojtik\source\repos\it4a-kviz-json\it4a-kviz-json\bin\Debug\net8.0\it4a-kviz-json.pdb
+C:\Users\1502fojtik\source\repos\it4a-kviz-json\it4a-kviz-json\obj\Debug\net8.0\it4a-kviz-json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1502fojtik\source\repos\it4a-kviz-json\it4a-kviz-json\obj\Debug\net8.0\it4a-kviz-json.AssemblyInfoInputs.cache
+C:\Users\1502fojtik\source\repos\it4a-kviz-json\it4a-kviz-json\obj\Debug\net8.0\it4a-kviz-json.AssemblyInfo.cs
+C:\Users\1502fojtik\source\repos\it4a-kviz-json\it4a-kviz-json\obj\Debug\net8.0\it4a-kviz-json.csproj.CoreCompileInputs.cache
+C:\Users\1502fojtik\source\repos\it4a-kviz-json\it4a-kviz-json\obj\Debug\net8.0\it4a-kviz-json.dll
+C:\Users\1502fojtik\source\repos\it4a-kviz-json\it4a-kviz-json\obj\Debug\net8.0\refint\it4a-kviz-json.dll
+C:\Users\1502fojtik\source\repos\it4a-kviz-json\it4a-kviz-json\obj\Debug\net8.0\it4a-kviz-json.pdb
+C:\Users\1502fojtik\source\repos\it4a-kviz-json\it4a-kviz-json\obj\Debug\net8.0\it4a-kviz-json.genruntimeconfig.cache
+C:\Users\1502fojtik\source\repos\it4a-kviz-json\it4a-kviz-json\obj\Debug\net8.0\ref\it4a-kviz-json.dll
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\it4a-kviz-json\it4a-kviz-json\it4a-kviz-json\bin\Debug\net8.0\it4a-kviz-json.exe
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\it4a-kviz-json\it4a-kviz-json\it4a-kviz-json\bin\Debug\net8.0\it4a-kviz-json.deps.json
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\it4a-kviz-json\it4a-kviz-json\it4a-kviz-json\bin\Debug\net8.0\it4a-kviz-json.runtimeconfig.json
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\it4a-kviz-json\it4a-kviz-json\it4a-kviz-json\bin\Debug\net8.0\it4a-kviz-json.dll
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\it4a-kviz-json\it4a-kviz-json\it4a-kviz-json\bin\Debug\net8.0\it4a-kviz-json.pdb
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\it4a-kviz-json\it4a-kviz-json\it4a-kviz-json\obj\Debug\net8.0\it4a-kviz-json.GeneratedMSBuildEditorConfig.editorconfig
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\it4a-kviz-json\it4a-kviz-json\it4a-kviz-json\obj\Debug\net8.0\it4a-kviz-json.AssemblyInfoInputs.cache
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\it4a-kviz-json\it4a-kviz-json\it4a-kviz-json\obj\Debug\net8.0\it4a-kviz-json.AssemblyInfo.cs
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\it4a-kviz-json\it4a-kviz-json\it4a-kviz-json\obj\Debug\net8.0\it4a-kviz-json.csproj.CoreCompileInputs.cache
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\it4a-kviz-json\it4a-kviz-json\it4a-kviz-json\obj\Debug\net8.0\it4a-kviz-json.sourcelink.json
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\it4a-kviz-json\it4a-kviz-json\it4a-kviz-json\obj\Debug\net8.0\it4a-kviz-json.dll
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\it4a-kviz-json\it4a-kviz-json\it4a-kviz-json\obj\Debug\net8.0\refint\it4a-kviz-json.dll
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\it4a-kviz-json\it4a-kviz-json\it4a-kviz-json\obj\Debug\net8.0\it4a-kviz-json.pdb
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\it4a-kviz-json\it4a-kviz-json\it4a-kviz-json\obj\Debug\net8.0\it4a-kviz-json.genruntimeconfig.cache
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\it4a-kviz-json\it4a-kviz-json\it4a-kviz-json\obj\Debug\net8.0\ref\it4a-kviz-json.dll

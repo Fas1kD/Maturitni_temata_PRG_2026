@@ -1,0 +1,95 @@
+{
+  "topic": "Food",
+  "categories": [
+    {
+      "name": "Fruits & Vegetables",
+      "values": [100, 200, 300, 400, 500],
+      "questions": [
+        "This yellow fruit is often eaten by monkeys.",
+        "A vegetable that makes people cry when you cut it.",
+        "This green fruit is the main ingredient in guacamole.",
+        "Which fruit is known as the 'king of fruits' in Asia?",
+        "Name the vegetable that was the first to be grown in space."
+      ],
+      "answers": [
+        "Banana",
+        "Onion",
+        "Avocado",
+        "Durian",
+        "Potato"
+      ]
+    },
+    {
+      "name": "Cooking & Kitchen",
+      "values": [100, 200, 300, 400, 500],
+      "questions": [
+        "To prepare food by heating it in an oven.",
+        "This tool is used to flip pancakes.",
+        "The Italian word for 'little tongues' of pasta.",
+        "What does 'al dente' mean when cooking pasta?",
+        "Name the French cooking method where food is cooked slowly in its own juices."
+      ],
+      "answers": [
+        "Bake",
+        "Spatula",
+        "Linguine",
+        "Slightly firm to the bite",
+        "Confit"
+      ]
+    },
+    {
+      "name": "Food Around the World",
+      "values": [100, 200, 300, 400, 500],
+      "questions": [
+        "Sushi comes from this country.",
+        "The traditional dish 'paella' is from which country?",
+        "Which country is famous for maple syrup?",
+        "Tacos are a traditional dish from this country.",
+        "In which country did croissants originally come from?"
+      ],
+      "answers": [
+        "Japan",
+        "Spain",
+        "Canada",
+        "Mexico",
+        "Austria"
+      ]
+    },
+    {
+      "name": "Food Vocabulary",
+      "values": [100, 200, 300, 400, 500],
+      "questions": [
+        "The opposite of 'sweet' taste.",
+        "The outer skin of bread.",
+        "Frozen water you put in drinks.",
+        "The white part of an egg.",
+        "What is the English word for 'cizrna'?"
+      ],
+      "answers": [
+        "Sour",
+        "Crust",
+        "Ice",
+        "Egg white",
+        "Chickpea"
+      ]
+    },
+    {
+      "name": "Food Fun Facts",
+      "values": [100, 200, 300, 400, 500],
+      "questions": [
+        "This drink is the most consumed beverage in the world after water.",
+        "What food is known as the 'staff of life'?",
+        "Which fruit has its seeds on the outside?",
+        "What is the main ingredient in hummus?",
+        "Which nut is used to make marzipan?"
+      ],
+      "answers": [
+        "Tea",
+        "Bread",
+        "Strawberry",
+        "Chickpeas",
+        "Almonds"
+      ]
+    }
+  ]
+}
