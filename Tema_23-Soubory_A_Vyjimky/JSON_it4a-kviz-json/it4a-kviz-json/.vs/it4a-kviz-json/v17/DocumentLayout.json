@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_23-Soubory_A_Vyjimky\\JSON_it4a-kviz-json\\it4a-kviz-json\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD196408-7980-457F-8AFF-88ACB39BE3F9}|it4a-kviz-json\\it4a-kviz-json.csproj|h:\\maturitn\u00ED t\u00E9mata\\prg\\tema_23-soubory_a_vyjimky\\json_it4a-kviz-json\\it4a-kviz-json\\it4a-kviz-json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD196408-7980-457F-8AFF-88ACB39BE3F9}|it4a-kviz-json\\it4a-kviz-json.csproj|solutionrelative:it4a-kviz-json\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_23-Soubory_A_Vyjimky\\JSON_it4a-kviz-json\\it4a-kviz-json\\it4a-kviz-json\\Program.cs",
+              "RelativeDocumentMoniker": "it4a-kviz-json\\Program.cs",
+              "ToolTip": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_23-Soubory_A_Vyjimky\\JSON_it4a-kviz-json\\it4a-kviz-json\\it4a-kviz-json\\Program.cs",
+              "RelativeToolTip": "it4a-kviz-json\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T08:50:53.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

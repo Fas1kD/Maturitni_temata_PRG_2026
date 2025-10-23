@@ -1,0 +1,15 @@
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON\CSV_JSON\bin\Debug\net8.0\CSV_JSON.exe
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON\CSV_JSON\bin\Debug\net8.0\CSV_JSON.deps.json
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON\CSV_JSON\bin\Debug\net8.0\CSV_JSON.runtimeconfig.json
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON\CSV_JSON\bin\Debug\net8.0\CSV_JSON.dll
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON\CSV_JSON\bin\Debug\net8.0\CSV_JSON.pdb
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON\CSV_JSON\obj\Debug\net8.0\CSV_JSON.GeneratedMSBuildEditorConfig.editorconfig
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON\CSV_JSON\obj\Debug\net8.0\CSV_JSON.AssemblyInfoInputs.cache
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON\CSV_JSON\obj\Debug\net8.0\CSV_JSON.AssemblyInfo.cs
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON\CSV_JSON\obj\Debug\net8.0\CSV_JSON.csproj.CoreCompileInputs.cache
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON\CSV_JSON\obj\Debug\net8.0\CSV_JSON.sourcelink.json
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON\CSV_JSON\obj\Debug\net8.0\CSV_JSON.dll
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON\CSV_JSON\obj\Debug\net8.0\refint\CSV_JSON.dll
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON\CSV_JSON\obj\Debug\net8.0\CSV_JSON.pdb
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON\CSV_JSON\obj\Debug\net8.0\CSV_JSON.genruntimeconfig.cache
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON\CSV_JSON\obj\Debug\net8.0\ref\CSV_JSON.dll

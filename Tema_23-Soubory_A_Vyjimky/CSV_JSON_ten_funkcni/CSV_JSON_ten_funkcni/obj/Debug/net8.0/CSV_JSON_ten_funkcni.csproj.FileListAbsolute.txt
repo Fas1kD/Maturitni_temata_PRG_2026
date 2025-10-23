@@ -1,0 +1,15 @@
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON_ten_funkcni\CSV_JSON_ten_funkcni\obj\Debug\net8.0\CSV_JSON_ten_funkcni.GeneratedMSBuildEditorConfig.editorconfig
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON_ten_funkcni\CSV_JSON_ten_funkcni\obj\Debug\net8.0\CSV_JSON_ten_funkcni.AssemblyInfoInputs.cache
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON_ten_funkcni\CSV_JSON_ten_funkcni\obj\Debug\net8.0\CSV_JSON_ten_funkcni.AssemblyInfo.cs
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON_ten_funkcni\CSV_JSON_ten_funkcni\obj\Debug\net8.0\CSV_JSON_ten_funkcni.csproj.CoreCompileInputs.cache
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON_ten_funkcni\CSV_JSON_ten_funkcni\obj\Debug\net8.0\CSV_JSON_ten_funkcni.sourcelink.json
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON_ten_funkcni\CSV_JSON_ten_funkcni\bin\Debug\net8.0\CSV_JSON_ten_funkcni.exe
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON_ten_funkcni\CSV_JSON_ten_funkcni\bin\Debug\net8.0\CSV_JSON_ten_funkcni.deps.json
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON_ten_funkcni\CSV_JSON_ten_funkcni\bin\Debug\net8.0\CSV_JSON_ten_funkcni.runtimeconfig.json
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON_ten_funkcni\CSV_JSON_ten_funkcni\bin\Debug\net8.0\CSV_JSON_ten_funkcni.dll
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON_ten_funkcni\CSV_JSON_ten_funkcni\bin\Debug\net8.0\CSV_JSON_ten_funkcni.pdb
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON_ten_funkcni\CSV_JSON_ten_funkcni\obj\Debug\net8.0\CSV_JSON_ten_funkcni.dll
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON_ten_funkcni\CSV_JSON_ten_funkcni\obj\Debug\net8.0\refint\CSV_JSON_ten_funkcni.dll
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON_ten_funkcni\CSV_JSON_ten_funkcni\obj\Debug\net8.0\CSV_JSON_ten_funkcni.pdb
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON_ten_funkcni\CSV_JSON_ten_funkcni\obj\Debug\net8.0\CSV_JSON_ten_funkcni.genruntimeconfig.cache
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\CSV_JSON_ten_funkcni\CSV_JSON_ten_funkcni\obj\Debug\net8.0\ref\CSV_JSON_ten_funkcni.dll
