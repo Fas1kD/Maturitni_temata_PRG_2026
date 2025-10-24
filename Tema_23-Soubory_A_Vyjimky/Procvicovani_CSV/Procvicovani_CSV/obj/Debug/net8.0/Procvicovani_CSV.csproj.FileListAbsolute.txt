@@ -1,0 +1,15 @@
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Procvicovani_CSV\Procvicovani_CSV\bin\Debug\net8.0\Procvicovani_CSV.exe
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Procvicovani_CSV\Procvicovani_CSV\bin\Debug\net8.0\Procvicovani_CSV.deps.json
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Procvicovani_CSV\Procvicovani_CSV\bin\Debug\net8.0\Procvicovani_CSV.runtimeconfig.json
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Procvicovani_CSV\Procvicovani_CSV\bin\Debug\net8.0\Procvicovani_CSV.dll
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Procvicovani_CSV\Procvicovani_CSV\bin\Debug\net8.0\Procvicovani_CSV.pdb
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Procvicovani_CSV\Procvicovani_CSV\obj\Debug\net8.0\Procvicovani_CSV.GeneratedMSBuildEditorConfig.editorconfig
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Procvicovani_CSV\Procvicovani_CSV\obj\Debug\net8.0\Procvicovani_CSV.AssemblyInfoInputs.cache
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Procvicovani_CSV\Procvicovani_CSV\obj\Debug\net8.0\Procvicovani_CSV.AssemblyInfo.cs
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Procvicovani_CSV\Procvicovani_CSV\obj\Debug\net8.0\Procvicovani_CSV.csproj.CoreCompileInputs.cache
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Procvicovani_CSV\Procvicovani_CSV\obj\Debug\net8.0\Procvicovani_CSV.sourcelink.json
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Procvicovani_CSV\Procvicovani_CSV\obj\Debug\net8.0\Procvicovani_CSV.dll
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Procvicovani_CSV\Procvicovani_CSV\obj\Debug\net8.0\refint\Procvicovani_CSV.dll
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Procvicovani_CSV\Procvicovani_CSV\obj\Debug\net8.0\Procvicovani_CSV.pdb
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Procvicovani_CSV\Procvicovani_CSV\obj\Debug\net8.0\Procvicovani_CSV.genruntimeconfig.cache
+H:\Maturitní Témata\PRG\Tema_23-Soubory_A_Vyjimky\Procvicovani_CSV\Procvicovani_CSV\obj\Debug\net8.0\ref\Procvicovani_CSV.dll
