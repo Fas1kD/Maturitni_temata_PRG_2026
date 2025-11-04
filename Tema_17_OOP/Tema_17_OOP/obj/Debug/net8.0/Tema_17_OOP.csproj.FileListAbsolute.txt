@@ -1,0 +1,15 @@
+H:\Maturitní Témata\PRG\Tema_17_OOP\Tema_17_OOP\bin\Debug\net8.0\Tema_17_OOP.exe
+H:\Maturitní Témata\PRG\Tema_17_OOP\Tema_17_OOP\bin\Debug\net8.0\Tema_17_OOP.deps.json
+H:\Maturitní Témata\PRG\Tema_17_OOP\Tema_17_OOP\bin\Debug\net8.0\Tema_17_OOP.runtimeconfig.json
+H:\Maturitní Témata\PRG\Tema_17_OOP\Tema_17_OOP\bin\Debug\net8.0\Tema_17_OOP.dll
+H:\Maturitní Témata\PRG\Tema_17_OOP\Tema_17_OOP\bin\Debug\net8.0\Tema_17_OOP.pdb
+H:\Maturitní Témata\PRG\Tema_17_OOP\Tema_17_OOP\obj\Debug\net8.0\Tema_17_OOP.GeneratedMSBuildEditorConfig.editorconfig
+H:\Maturitní Témata\PRG\Tema_17_OOP\Tema_17_OOP\obj\Debug\net8.0\Tema_17_OOP.AssemblyInfoInputs.cache
+H:\Maturitní Témata\PRG\Tema_17_OOP\Tema_17_OOP\obj\Debug\net8.0\Tema_17_OOP.AssemblyInfo.cs
+H:\Maturitní Témata\PRG\Tema_17_OOP\Tema_17_OOP\obj\Debug\net8.0\Tema_17_OOP.csproj.CoreCompileInputs.cache
+H:\Maturitní Témata\PRG\Tema_17_OOP\Tema_17_OOP\obj\Debug\net8.0\Tema_17_OOP.sourcelink.json
+H:\Maturitní Témata\PRG\Tema_17_OOP\Tema_17_OOP\obj\Debug\net8.0\Tema_17_OOP.dll
+H:\Maturitní Témata\PRG\Tema_17_OOP\Tema_17_OOP\obj\Debug\net8.0\refint\Tema_17_OOP.dll
+H:\Maturitní Témata\PRG\Tema_17_OOP\Tema_17_OOP\obj\Debug\net8.0\Tema_17_OOP.pdb
+H:\Maturitní Témata\PRG\Tema_17_OOP\Tema_17_OOP\obj\Debug\net8.0\Tema_17_OOP.genruntimeconfig.cache
+H:\Maturitní Témata\PRG\Tema_17_OOP\Tema_17_OOP\obj\Debug\net8.0\ref\Tema_17_OOP.dll

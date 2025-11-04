@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAD545B-07E3-4472-9928-AF6E1B37A298}|Tema_17_OOP\\Tema_17_OOP.csproj|h:\\maturitn\u00ED t\u00E9mata\\prg\\tema_17_oop\\tema_17_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDAD545B-07E3-4472-9928-AF6E1B37A298}|Tema_17_OOP\\Tema_17_OOP.csproj|solutionrelative:tema_17_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDAD545B-07E3-4472-9928-AF6E1B37A298}|Tema_17_OOP\\Tema_17_OOP.csproj|h:\\maturitn\u00ED t\u00E9mata\\prg\\tema_17_oop\\tema_17_oop\\osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDAD545B-07E3-4472-9928-AF6E1B37A298}|Tema_17_OOP\\Tema_17_OOP.csproj|solutionrelative:tema_17_oop\\osoba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Osoba.cs",
+              "DocumentMoniker": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\Tema_17_OOP\\Osoba.cs",
+              "RelativeDocumentMoniker": "Tema_17_OOP\\Osoba.cs",
+              "ToolTip": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\Tema_17_OOP\\Osoba.cs",
+              "RelativeToolTip": "Tema_17_OOP\\Osoba.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:07:30.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\Tema_17_OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Tema_17_OOP\\Program.cs",
+              "ToolTip": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\Tema_17_OOP\\Program.cs",
+              "RelativeToolTip": "Tema_17_OOP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:06:33.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

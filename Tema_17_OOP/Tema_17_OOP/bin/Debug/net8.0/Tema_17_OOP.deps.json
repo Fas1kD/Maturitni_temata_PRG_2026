@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tema_17_OOP/1.0.0": {
+        "runtime": {
+          "Tema_17_OOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tema_17_OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
