@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Zaklad_OOP_lenochod/1.0.0": {
+        "runtime": {
+          "Zaklad_OOP_lenochod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zaklad_OOP_lenochod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

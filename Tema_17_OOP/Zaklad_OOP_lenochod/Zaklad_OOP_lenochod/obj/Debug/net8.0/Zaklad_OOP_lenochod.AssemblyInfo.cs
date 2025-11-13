@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Tema_17_OOP")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Zaklad_OOP_lenochod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+579485eb8c6b1f9c2d64e21d168217568eaedcdf")]
-[assembly: System.Reflection.AssemblyProductAttribute("Tema_17_OOP")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Tema_17_OOP")]
+[assembly: System.Reflection.AssemblyProductAttribute("Zaklad_OOP_lenochod")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Zaklad_OOP_lenochod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild

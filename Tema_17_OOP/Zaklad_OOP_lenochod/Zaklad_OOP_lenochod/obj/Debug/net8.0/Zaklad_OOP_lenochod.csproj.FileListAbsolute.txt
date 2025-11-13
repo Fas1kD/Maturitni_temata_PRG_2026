@@ -1,0 +1,15 @@
+H:\Maturitní Témata\PRG\Tema_17_OOP\Zaklad_OOP_lenochod\Zaklad_OOP_lenochod\bin\Debug\net8.0\Zaklad_OOP_lenochod.exe
+H:\Maturitní Témata\PRG\Tema_17_OOP\Zaklad_OOP_lenochod\Zaklad_OOP_lenochod\bin\Debug\net8.0\Zaklad_OOP_lenochod.deps.json
+H:\Maturitní Témata\PRG\Tema_17_OOP\Zaklad_OOP_lenochod\Zaklad_OOP_lenochod\bin\Debug\net8.0\Zaklad_OOP_lenochod.runtimeconfig.json
+H:\Maturitní Témata\PRG\Tema_17_OOP\Zaklad_OOP_lenochod\Zaklad_OOP_lenochod\bin\Debug\net8.0\Zaklad_OOP_lenochod.dll
+H:\Maturitní Témata\PRG\Tema_17_OOP\Zaklad_OOP_lenochod\Zaklad_OOP_lenochod\bin\Debug\net8.0\Zaklad_OOP_lenochod.pdb
+H:\Maturitní Témata\PRG\Tema_17_OOP\Zaklad_OOP_lenochod\Zaklad_OOP_lenochod\obj\Debug\net8.0\Zaklad_OOP_lenochod.GeneratedMSBuildEditorConfig.editorconfig
+H:\Maturitní Témata\PRG\Tema_17_OOP\Zaklad_OOP_lenochod\Zaklad_OOP_lenochod\obj\Debug\net8.0\Zaklad_OOP_lenochod.AssemblyInfoInputs.cache
+H:\Maturitní Témata\PRG\Tema_17_OOP\Zaklad_OOP_lenochod\Zaklad_OOP_lenochod\obj\Debug\net8.0\Zaklad_OOP_lenochod.AssemblyInfo.cs
+H:\Maturitní Témata\PRG\Tema_17_OOP\Zaklad_OOP_lenochod\Zaklad_OOP_lenochod\obj\Debug\net8.0\Zaklad_OOP_lenochod.csproj.CoreCompileInputs.cache
+H:\Maturitní Témata\PRG\Tema_17_OOP\Zaklad_OOP_lenochod\Zaklad_OOP_lenochod\obj\Debug\net8.0\Zaklad_OOP_lenochod.sourcelink.json
+H:\Maturitní Témata\PRG\Tema_17_OOP\Zaklad_OOP_lenochod\Zaklad_OOP_lenochod\obj\Debug\net8.0\Zaklad_OOP_lenochod.dll
+H:\Maturitní Témata\PRG\Tema_17_OOP\Zaklad_OOP_lenochod\Zaklad_OOP_lenochod\obj\Debug\net8.0\refint\Zaklad_OOP_lenochod.dll
+H:\Maturitní Témata\PRG\Tema_17_OOP\Zaklad_OOP_lenochod\Zaklad_OOP_lenochod\obj\Debug\net8.0\Zaklad_OOP_lenochod.pdb
+H:\Maturitní Témata\PRG\Tema_17_OOP\Zaklad_OOP_lenochod\Zaklad_OOP_lenochod\obj\Debug\net8.0\Zaklad_OOP_lenochod.genruntimeconfig.cache
+H:\Maturitní Témata\PRG\Tema_17_OOP\Zaklad_OOP_lenochod\Zaklad_OOP_lenochod\obj\Debug\net8.0\ref\Zaklad_OOP_lenochod.dll
