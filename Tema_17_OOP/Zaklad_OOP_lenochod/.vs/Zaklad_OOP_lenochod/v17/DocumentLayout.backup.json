@@ -28,11 +28,15 @@
               "RelativeDocumentMoniker": "Zaklad_OOP_lenochod\\Program.cs",
               "ToolTip": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\Zaklad_OOP_lenochod\\Zaklad_OOP_lenochod\\Program.cs",
               "RelativeToolTip": "Zaklad_OOP_lenochod\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T12:06:41.238Z",
               "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -40,9 +44,9 @@
               "Title": "Lenochod.cs",
               "DocumentMoniker": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\Zaklad_OOP_lenochod\\Zaklad_OOP_lenochod\\Lenochod.cs",
               "RelativeDocumentMoniker": "Zaklad_OOP_lenochod\\Lenochod.cs",
-              "ToolTip": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\Zaklad_OOP_lenochod\\Zaklad_OOP_lenochod\\Lenochod.cs",
-              "RelativeToolTip": "Zaklad_OOP_lenochod\\Lenochod.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAARAAAAAAAAAA==",
+              "ToolTip": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\Zaklad_OOP_lenochod\\Zaklad_OOP_lenochod\\Lenochod.cs*",
+              "RelativeToolTip": "Zaklad_OOP_lenochod\\Lenochod.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwD0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T12:07:25.237Z",
               "EditorCaption": ""

@@ -33,8 +33,8 @@ namespace Zaklad_OOP_lenochod
                 }
             }
         }
-        public int Hmotnost {  get; set; } 
-        private bool _isSleeping = false;
+        public int Hmotnost {  get; set; } //property
+        private bool _isSleeping = false; //atribut     
 
 
         public Lenochod(string jmeno, int datumNarozeni, int hmotnost)
