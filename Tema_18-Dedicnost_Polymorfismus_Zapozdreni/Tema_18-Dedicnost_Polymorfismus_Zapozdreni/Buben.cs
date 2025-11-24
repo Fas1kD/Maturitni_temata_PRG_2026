@@ -14,5 +14,12 @@ namespace Tema_18_Dedicnost_Polymorfismus_Zapozdreni
         {
             Console.WriteLine("BUM, BUM");
         }
+
+        //abstrakt property (vlastnost) - každý buben bude mít vlastnost sound, která bude brnk, nemůžu ji přepsat
+
+        public override string Sound
+        {
+            get { return "bum"; }
+        }
     }
 }

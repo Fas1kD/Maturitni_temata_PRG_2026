@@ -16,6 +16,9 @@
             buben1.Zahraj();
 
             Console.WriteLine(Buben.JeNaladeny); //volání statické metody
+
+            Console.WriteLine(buben1.Sound);
+            Console.WriteLine(kytara1.Sound);
             
         }
     }

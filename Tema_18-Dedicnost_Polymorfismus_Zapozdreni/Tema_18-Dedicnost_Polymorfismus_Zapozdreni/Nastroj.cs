@@ -22,5 +22,8 @@ namespace Tema_18_Dedicnost_Polymorfismus_Zapozdreni
         //}
 
         public abstract void Zahraj(); //nemůžu vytvořit objekt nástroj, ale slíbil jsem že potomci (kytara,buben) budou mít vlastnost zahraj
+
+        //abstrakt property (vlastnost) - slíbená property, slíbené, dostane je potom každý potomek
+        public abstract string Sound { get;} //get - může jenom získat, set - může i změnit danou vlastnost
     }
 }

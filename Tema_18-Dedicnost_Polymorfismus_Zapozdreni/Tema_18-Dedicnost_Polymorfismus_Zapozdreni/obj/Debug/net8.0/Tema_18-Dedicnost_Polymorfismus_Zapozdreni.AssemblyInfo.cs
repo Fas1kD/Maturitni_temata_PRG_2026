@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tema_18-Dedicnost_Polymorfismus_Zapozdreni")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0145976606a54cf64619fdf4aaf7013b88d44caa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc8b8fafb0fe0c8f5dfb515f91053a2e169f4923")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tema_18-Dedicnost_Polymorfismus_Zapozdreni")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tema_18-Dedicnost_Polymorfismus_Zapozdreni")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

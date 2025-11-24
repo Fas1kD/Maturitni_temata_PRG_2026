@@ -15,5 +15,11 @@ namespace Tema_18_Dedicnost_Polymorfismus_Zapozdreni
         {
             Console.WriteLine("Brnk, Brnk");
         }
+
+        //abstrakt property (vlastnost) - každá kytara bude mít vlastnost sound, která bude brnk, nemůžu ji přepsat
+        public override string Sound 
+        {
+            get { return "brnk"; }
+        }
     }
 }
