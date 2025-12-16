@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\oop_procvicovani_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9FFBE-8AF9-4A86-B036-1F4733B06E75}|oop_procvicovani_2\\oop_procvicovani_2.csproj|h:\\maturitn\u00ED t\u00E9mata\\prg\\tema_17_oop\\oop_procvicovani_2\\oop_procvicovani_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9FFBE-8AF9-4A86-B036-1F4733B06E75}|oop_procvicovani_2\\oop_procvicovani_2.csproj|solutionrelative:oop_procvicovani_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9FFBE-8AF9-4A86-B036-1F4733B06E75}|oop_procvicovani_2\\oop_procvicovani_2.csproj|h:\\maturitn\u00ED t\u00E9mata\\prg\\tema_17_oop\\oop_procvicovani_2\\oop_procvicovani_2\\nastroje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9FFBE-8AF9-4A86-B036-1F4733B06E75}|oop_procvicovani_2\\oop_procvicovani_2.csproj|solutionrelative:oop_procvicovani_2\\nastroje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA9FFBE-8AF9-4A86-B036-1F4733B06E75}|oop_procvicovani_2\\oop_procvicovani_2.csproj|h:\\maturitn\u00ED t\u00E9mata\\prg\\tema_17_oop\\oop_procvicovani_2\\oop_procvicovani_2\\kytara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA9FFBE-8AF9-4A86-B036-1F4733B06E75}|oop_procvicovani_2\\oop_procvicovani_2.csproj|solutionrelative:oop_procvicovani_2\\kytara.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "kytara.cs",
+              "DocumentMoniker": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\oop_procvicovani_2\\oop_procvicovani_2\\kytara.cs",
+              "RelativeDocumentMoniker": "oop_procvicovani_2\\kytara.cs",
+              "ToolTip": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\oop_procvicovani_2\\oop_procvicovani_2\\kytara.cs",
+              "RelativeToolTip": "oop_procvicovani_2\\kytara.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T09:45:20.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nastroje.cs",
+              "DocumentMoniker": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\oop_procvicovani_2\\oop_procvicovani_2\\nastroje.cs",
+              "RelativeDocumentMoniker": "oop_procvicovani_2\\nastroje.cs",
+              "ToolTip": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\oop_procvicovani_2\\oop_procvicovani_2\\nastroje.cs",
+              "RelativeToolTip": "oop_procvicovani_2\\nastroje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T09:45:09.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\oop_procvicovani_2\\oop_procvicovani_2\\Program.cs",
+              "RelativeDocumentMoniker": "oop_procvicovani_2\\Program.cs",
+              "ToolTip": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\oop_procvicovani_2\\oop_procvicovani_2\\Program.cs",
+              "RelativeToolTip": "oop_procvicovani_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T09:44:44.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

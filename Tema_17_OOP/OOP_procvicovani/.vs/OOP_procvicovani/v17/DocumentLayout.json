@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\OOP_procvicovani\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C41EDE5-AFB8-420D-B466-99E87493A34F}|OOP_procvicovani\\OOP_procvicovani.csproj|h:\\maturitn\u00ED t\u00E9mata\\prg\\tema_17_oop\\oop_procvicovani\\oop_procvicovani\\kocka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C41EDE5-AFB8-420D-B466-99E87493A34F}|OOP_procvicovani\\OOP_procvicovani.csproj|solutionrelative:oop_procvicovani\\kocka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C41EDE5-AFB8-420D-B466-99E87493A34F}|OOP_procvicovani\\OOP_procvicovani.csproj|h:\\maturitn\u00ED t\u00E9mata\\prg\\tema_17_oop\\oop_procvicovani\\oop_procvicovani\\pes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C41EDE5-AFB8-420D-B466-99E87493A34F}|OOP_procvicovani\\OOP_procvicovani.csproj|solutionrelative:oop_procvicovani\\pes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C41EDE5-AFB8-420D-B466-99E87493A34F}|OOP_procvicovani\\OOP_procvicovani.csproj|h:\\maturitn\u00ED t\u00E9mata\\prg\\tema_17_oop\\oop_procvicovani\\oop_procvicovani\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C41EDE5-AFB8-420D-B466-99E87493A34F}|OOP_procvicovani\\OOP_procvicovani.csproj|solutionrelative:oop_procvicovani\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C41EDE5-AFB8-420D-B466-99E87493A34F}|OOP_procvicovani\\OOP_procvicovani.csproj|h:\\maturitn\u00ED t\u00E9mata\\prg\\tema_17_oop\\oop_procvicovani\\oop_procvicovani\\zvire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C41EDE5-AFB8-420D-B466-99E87493A34F}|OOP_procvicovani\\OOP_procvicovani.csproj|solutionrelative:oop_procvicovani\\zvire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kocka.cs",
+              "DocumentMoniker": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\OOP_procvicovani\\OOP_procvicovani\\Kocka.cs",
+              "RelativeDocumentMoniker": "OOP_procvicovani\\Kocka.cs",
+              "ToolTip": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\OOP_procvicovani\\OOP_procvicovani\\Kocka.cs",
+              "RelativeToolTip": "OOP_procvicovani\\Kocka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:54:33.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pes.cs",
+              "DocumentMoniker": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\OOP_procvicovani\\OOP_procvicovani\\Pes.cs",
+              "RelativeDocumentMoniker": "OOP_procvicovani\\Pes.cs",
+              "ToolTip": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\OOP_procvicovani\\OOP_procvicovani\\Pes.cs",
+              "RelativeToolTip": "OOP_procvicovani\\Pes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:49:25.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Zvire.cs",
+              "DocumentMoniker": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\OOP_procvicovani\\OOP_procvicovani\\Zvire.cs",
+              "RelativeDocumentMoniker": "OOP_procvicovani\\Zvire.cs",
+              "ToolTip": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\OOP_procvicovani\\OOP_procvicovani\\Zvire.cs",
+              "RelativeToolTip": "OOP_procvicovani\\Zvire.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:18:25.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\OOP_procvicovani\\OOP_procvicovani\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_procvicovani\\Program.cs",
+              "ToolTip": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\OOP_procvicovani\\OOP_procvicovani\\Program.cs",
+              "RelativeToolTip": "OOP_procvicovani\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T08:16:35.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+H:\Maturitní Témata\PRG\Tema_17_OOP\OOP_procvicovani\OOP_procvicovani\bin\Debug\net8.0\OOP_procvicovani.exe
+H:\Maturitní Témata\PRG\Tema_17_OOP\OOP_procvicovani\OOP_procvicovani\bin\Debug\net8.0\OOP_procvicovani.deps.json
+H:\Maturitní Témata\PRG\Tema_17_OOP\OOP_procvicovani\OOP_procvicovani\bin\Debug\net8.0\OOP_procvicovani.runtimeconfig.json
+H:\Maturitní Témata\PRG\Tema_17_OOP\OOP_procvicovani\OOP_procvicovani\bin\Debug\net8.0\OOP_procvicovani.dll
+H:\Maturitní Témata\PRG\Tema_17_OOP\OOP_procvicovani\OOP_procvicovani\bin\Debug\net8.0\OOP_procvicovani.pdb
+H:\Maturitní Témata\PRG\Tema_17_OOP\OOP_procvicovani\OOP_procvicovani\obj\Debug\net8.0\OOP_procvicovani.GeneratedMSBuildEditorConfig.editorconfig
+H:\Maturitní Témata\PRG\Tema_17_OOP\OOP_procvicovani\OOP_procvicovani\obj\Debug\net8.0\OOP_procvicovani.AssemblyInfoInputs.cache
+H:\Maturitní Témata\PRG\Tema_17_OOP\OOP_procvicovani\OOP_procvicovani\obj\Debug\net8.0\OOP_procvicovani.AssemblyInfo.cs
+H:\Maturitní Témata\PRG\Tema_17_OOP\OOP_procvicovani\OOP_procvicovani\obj\Debug\net8.0\OOP_procvicovani.csproj.CoreCompileInputs.cache
+H:\Maturitní Témata\PRG\Tema_17_OOP\OOP_procvicovani\OOP_procvicovani\obj\Debug\net8.0\OOP_procvicovani.sourcelink.json
+H:\Maturitní Témata\PRG\Tema_17_OOP\OOP_procvicovani\OOP_procvicovani\obj\Debug\net8.0\OOP_procvicovani.dll
+H:\Maturitní Témata\PRG\Tema_17_OOP\OOP_procvicovani\OOP_procvicovani\obj\Debug\net8.0\refint\OOP_procvicovani.dll
+H:\Maturitní Témata\PRG\Tema_17_OOP\OOP_procvicovani\OOP_procvicovani\obj\Debug\net8.0\OOP_procvicovani.pdb
+H:\Maturitní Témata\PRG\Tema_17_OOP\OOP_procvicovani\OOP_procvicovani\obj\Debug\net8.0\OOP_procvicovani.genruntimeconfig.cache
+H:\Maturitní Témata\PRG\Tema_17_OOP\OOP_procvicovani\OOP_procvicovani\obj\Debug\net8.0\ref\OOP_procvicovani.dll
