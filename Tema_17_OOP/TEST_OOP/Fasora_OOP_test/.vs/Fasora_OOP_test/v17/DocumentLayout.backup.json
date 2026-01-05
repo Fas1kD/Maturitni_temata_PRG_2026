@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\TEST_OOP\\Fasora_OOP_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17F5301A-6D6E-4666-B683-841CFB434CE4}|Fasora_OOP_test\\Fasora_OOP_test.csproj|h:\\maturitn\u00ED t\u00E9mata\\prg\\tema_17_oop\\test_oop\\fasora_oop_test\\fasora_oop_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F5301A-6D6E-4666-B683-841CFB434CE4}|Fasora_OOP_test\\Fasora_OOP_test.csproj|solutionrelative:fasora_oop_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F5301A-6D6E-4666-B683-841CFB434CE4}|Fasora_OOP_test\\Fasora_OOP_test.csproj|h:\\maturitn\u00ED t\u00E9mata\\prg\\tema_17_oop\\test_oop\\fasora_oop_test\\fasora_oop_test\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F5301A-6D6E-4666-B683-841CFB434CE4}|Fasora_OOP_test\\Fasora_OOP_test.csproj|solutionrelative:fasora_oop_test\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F5301A-6D6E-4666-B683-841CFB434CE4}|Fasora_OOP_test\\Fasora_OOP_test.csproj|h:\\maturitn\u00ED t\u00E9mata\\prg\\tema_17_oop\\test_oop\\fasora_oop_test\\fasora_oop_test\\vipbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F5301A-6D6E-4666-B683-841CFB434CE4}|Fasora_OOP_test\\Fasora_OOP_test.csproj|solutionrelative:fasora_oop_test\\vipbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VipBooking.cs",
+              "DocumentMoniker": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\TEST_OOP\\Fasora_OOP_test\\Fasora_OOP_test\\VipBooking.cs",
+              "RelativeDocumentMoniker": "Fasora_OOP_test\\VipBooking.cs",
+              "ToolTip": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\TEST_OOP\\Fasora_OOP_test\\Fasora_OOP_test\\VipBooking.cs",
+              "RelativeToolTip": "Fasora_OOP_test\\VipBooking.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:51:25.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\TEST_OOP\\Fasora_OOP_test\\Fasora_OOP_test\\Booking.cs",
+              "RelativeDocumentMoniker": "Fasora_OOP_test\\Booking.cs",
+              "ToolTip": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\TEST_OOP\\Fasora_OOP_test\\Fasora_OOP_test\\Booking.cs",
+              "RelativeToolTip": "Fasora_OOP_test\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:50:12.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\TEST_OOP\\Fasora_OOP_test\\Fasora_OOP_test\\Program.cs",
+              "RelativeDocumentMoniker": "Fasora_OOP_test\\Program.cs",
+              "ToolTip": "H:\\Maturitn\u00ED T\u00E9mata\\PRG\\Tema_17_OOP\\TEST_OOP\\Fasora_OOP_test\\Fasora_OOP_test\\Program.cs*",
+              "RelativeToolTip": "Fasora_OOP_test\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:47:41.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

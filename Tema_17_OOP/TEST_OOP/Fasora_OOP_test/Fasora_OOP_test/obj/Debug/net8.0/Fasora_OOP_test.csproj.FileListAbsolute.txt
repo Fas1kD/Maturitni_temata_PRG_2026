@@ -1,0 +1,5 @@
+H:\Maturitní Témata\PRG\Tema_17_OOP\TEST_OOP\Fasora_OOP_test\Fasora_OOP_test\obj\Debug\net8.0\Fasora_OOP_test.GeneratedMSBuildEditorConfig.editorconfig
+H:\Maturitní Témata\PRG\Tema_17_OOP\TEST_OOP\Fasora_OOP_test\Fasora_OOP_test\obj\Debug\net8.0\Fasora_OOP_test.AssemblyInfoInputs.cache
+H:\Maturitní Témata\PRG\Tema_17_OOP\TEST_OOP\Fasora_OOP_test\Fasora_OOP_test\obj\Debug\net8.0\Fasora_OOP_test.AssemblyInfo.cs
+H:\Maturitní Témata\PRG\Tema_17_OOP\TEST_OOP\Fasora_OOP_test\Fasora_OOP_test\obj\Debug\net8.0\Fasora_OOP_test.csproj.CoreCompileInputs.cache
+H:\Maturitní Témata\PRG\Tema_17_OOP\TEST_OOP\Fasora_OOP_test\Fasora_OOP_test\obj\Debug\net8.0\Fasora_OOP_test.sourcelink.json
