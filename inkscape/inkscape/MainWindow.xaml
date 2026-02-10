@@ -1,0 +1,19 @@
+﻿<Window x:Class="inkscape.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:inkscape"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Slider Value="{Binding sirka}" Width="auto" Maximum="500"/>
+        <Slider Value="{Binding vyska}" Width="auto" Maximum="250"/>
+        <Rectangle Fill="LightBlue" Height="{Binding vyska}" Width="{Binding sirka}" Margin="10"/>
+        <Canvas>
+            <Path Canvas.Left="200" Canvas.Top="0" Data="M 68.4535 44.8996 L 100.434 107.986 L 124.394 62.9331 L 152.745 123.283 L 201.68 198 L 10.6729 199.104 Z" Fill="#FFEBECA3" Stroke="#FF8A0404"/>
+            <Rectangle Fill="LightGreen" Width="150" Height="100" Canvas.Left="20" Canvas.Top="50"/>
+            <Ellipse Fill="LightPink" Width="100" Height="100" Canvas.Left="500" Canvas.Top="150"/>
+        </Canvas>
+    </StackPanel>
+</Window>
